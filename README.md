@@ -38,5 +38,3 @@ Junte-se à nossa comunidade para discutir o projeto, compartilhar ideias e cola
 <a href="https://github.com/SouJunior/site-webapp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SouJunior/site-webapp" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
