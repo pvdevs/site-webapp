@@ -1,76 +1,41 @@
-# Site
+[![license: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md)
 
-Projeto Opensource que visa melhorar o match entre os profissionais Juniors e Empresas.
+# SouJunior website
+
+Repositório do site oficial da SouJunior: https://www.soujunior.tech/
 
 ![Logo](./logo-soujunior.png)
 
-## Status Deploy
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9ee40066-22ee-4b96-85a6-6025b2bb6533/deploy-status)](https://app.netlify.com/sites/soujunior/deploys)
+## 🚀 Quick Start
+Instruções rápidas para rodar o projeto localmente.
 
-## Instalação
 
-Clone o projeto.
-
-```bash
-  git clone https://github.com/SouJunior/Site
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd Site
-```
-
-Instale as dependências
-
+**Instalação:**
 ```bash
   npm install
 ```
 
-## Rodando localmente
-
-Inicie o servidor
-
+**Uso:**
 ```bash
-  npm run dev
+npm run dev
 ```
 
-## Usado por
+## 🙋 Issues
+Para ver a lista de tarefas ativas ou propostas, acesse nosso [backlog de issues](https://github.com/souJunior/site-webapp/issues). Sinta-se à vontade para abrir novas issues, relatar bugs ou enviar solicitações de novas features.
 
-Esse projeto é usado pela [SouJunior](https://github.com/SouJunior).
+## ✍️ Contribuições
+Leia nosso Guia de Contribuições para saber como você pode contribuir para o projeto.
 
-## Tecnologias utilizadas
+Este projeto adere ao Código de Conduta. Certifique-se de lê-lo antes de participar.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/>
+## 👥 Comunidade
+Junte-se à nossa comunidade para discutir o projeto, compartilhar ideias e colaborar conosco!
 
-## DevOps
+[LinkedIn](https://www.linkedin.com/company/soujunior)
 
-```mermaid
-sequenceDiagram
-    actor Dev as Desenvolvedores
-    participant Git as GitHub
-    participant Net as Netlify
-
-    Note over Dev,Net: Fluxo de Deploy com Preview
-
-    Dev->>Git: Abre Pull Request (PR) para main
-    Git->>Net: Novo Evento: PR criada
-    Net-->>Git: Deploy Preview criado
-    
-    Note over Dev,Net: Loop de desenvolvimento
-    
-    Dev->>Git: Aprova e mergeia PR para main
-    Git->>Net: Novo Evento: Branch main atualizada
-    Net-->>Git: Deploy de Produção atualizado
-```
-
-## Autor(es) 🙎🏻‍♂️
+## 🙎🏻‍♂️ Autor(es)
 
 - Anderson Nunes | [GitHub](https://https://github.com/Dande94) - [LinkedIn](https://www.linkedin.com/in/anderson-nunes-000541225/)
 - Ana Santos | [GitHub](https://github.com/SilviaLTeixeira) - [LinkedIn](https://www.linkedin.com/in/ana-saantos/)
 - Edvaldo Cabral | [GitHub](https://github.com/edcabralc) - [LinkedIn](https://www.linkedin.com/in/edcabralc/)
 - Michelle Porto | [GitHub](https://github.com/michelleporto/michelleporto) - [LinkedIn](https://www.linkedin.com/in/michelle-porto-ribeiro/)
-
-## Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio do nosso [Discord](https://discord.gg/naTaHgZZpz).
