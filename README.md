@@ -33,9 +33,10 @@ Junte-se à nossa comunidade para discutir o projeto, compartilhar ideias e cola
 
 [LinkedIn](https://www.linkedin.com/company/soujunior)
 
-## 🙎🏻‍♂️ Autor(es)
+## 🙎🏻‍♂️ Contribuidore
 
-- Anderson Nunes | [GitHub](https://https://github.com/Dande94) - [LinkedIn](https://www.linkedin.com/in/anderson-nunes-000541225/)
-- Ana Santos | [GitHub](https://github.com/SilviaLTeixeira) - [LinkedIn](https://www.linkedin.com/in/ana-saantos/)
-- Edvaldo Cabral | [GitHub](https://github.com/edcabralc) - [LinkedIn](https://www.linkedin.com/in/edcabralc/)
-- Michelle Porto | [GitHub](https://github.com/michelleporto/michelleporto) - [LinkedIn](https://www.linkedin.com/in/michelle-porto-ribeiro/)
+<a href="https://github.com/SouJunior/site-webapp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SouJunior/site-webapp" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
