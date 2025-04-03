@@ -33,7 +33,7 @@ Junte-se à nossa comunidade para discutir o projeto, compartilhar ideias e cola
 
 [LinkedIn](https://www.linkedin.com/company/soujunior)
 
-## 🙎🏻‍♂️ Contribuidore
+## 🤝 Contribuidores
 
 <a href="https://github.com/SouJunior/site-webapp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SouJunior/site-webapp" />
